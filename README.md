@@ -58,21 +58,22 @@ Streamlit-based app to predict movie/show genres using both multi-class and mult
 ---
 
 ## 📁 Project Structure
-
+```
    Movie-Genre-Predictor/
    ├── multi-label predictor/     # Multi-label predictor directory
    ├── multi-class predictor/     # Multi-class predictor directory
    ├── requirements.txt        # Python dependencies
    └── README.md               # Project documentation
-
+```
 ---
 
 ## ✨ Example Use Case
 
 **Input:**
-      ```text
-      A former U.S. President is called out of retirement to find the source of a deadly cyberattack, only to    
-      discover a vast web of lies and conspiracies.
+```text
+A former U.S. President is called out of retirement to find the source of a deadly cyberattack, only to    
+discover a vast web of lies and conspiracies.
+```
 
 **Output (Multi-Label):**
 - Sci-Fi (65%)
